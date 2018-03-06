@@ -4,7 +4,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		Conta minhaConta = new Conta();
-		minhaConta.numero;
 
 	}
 	// ele nao consegue busca o int numero porque ele está encapsulado na class Conta 
